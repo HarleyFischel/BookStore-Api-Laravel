@@ -18,6 +18,18 @@ http://localhost:8000/api/inventory
 php artisan migrate
 ```
 
+### Hosted Examples
+
+#### LAMP server - sqllite3
+``` js
+http://app.azii.io/api/inventory
+```
+
+#### AWS E2 Instance - mysql8
+``` js
+http://app.ezii.io/api/inventory
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
