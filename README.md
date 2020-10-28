@@ -24,14 +24,14 @@ php artisan migrate
 ``` js
 http://app.azii.io/api/inventory
 ```
-(http://app.azii.io/api/inventory)
+http://app.azii.io/api/inventory
 
 
 #### AWS E2 Instance - mysql8 RDS
 ``` js
 http://app.ezii.io/api/inventory
 ```
-(http://app.ezii.io/api/inventory)
+http://app.ezii.io/api/inventory
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
