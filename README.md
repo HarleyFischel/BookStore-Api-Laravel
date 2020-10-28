@@ -25,7 +25,7 @@ php artisan migrate
 http://app.azii.io/api/inventory
 ```
 
-#### AWS E2 Instance - mysql8
+#### AWS E2 Instance - mysql8 RDS
 ``` js
 http://app.ezii.io/api/inventory
 ```
